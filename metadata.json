@@ -1,0 +1,8 @@
+{
+  "name": "Devbhoomi Cabs",
+  "description": "Premium Tour & Travel Taxi/Cab Service in Uttarakhand with Cab Booking, Fleet Selection, AI Tour Planning, AI Fare Estimation and Interactive Chatbot Support.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "requestFramePermissions": []
+}
